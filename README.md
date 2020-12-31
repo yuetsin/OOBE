@@ -1,2 +1,5 @@
 # OOBE
-quickly config macOS working environment
+> **O**ut-**o**f-**B**ox **E**xperience
+
+quickly configure my macOS working environment
+

@@ -1,7 +1,7 @@
 $TYPE: BREW CASK RECIPES
 iina
 keka
-shadowsocks-ng
+shadowsocksx-ng
 google-chrome
 wechat
 qq
