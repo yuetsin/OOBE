@@ -3,3 +3,7 @@
 
 quickly configure my macOS working environment
 
+```shell
+python3 run.py
+```
+
