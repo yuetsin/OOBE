@@ -13,3 +13,4 @@ netease-music
 hiddenbar
 rectangle
 itsycal
+mounty

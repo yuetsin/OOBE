@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+import assertions
+
+
 from os import path
 from exec import popen, ask_if_continue
 from printer import success, failure, information
