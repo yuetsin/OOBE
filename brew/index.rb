@@ -6,3 +6,4 @@ zsh-autosuggestions
 zsh-syntax-highlighting
 you-get
 ffmpeg
+youtube-dl
