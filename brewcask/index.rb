@@ -14,3 +14,4 @@ hiddenbar
 rectangle
 itsycal
 mounty
+mactex
