@@ -15,3 +15,4 @@ rectangle
 itsycal
 mounty
 mactex
+typora
