@@ -8,3 +8,4 @@ you-get
 ffmpeg
 youtube-dl
 pandoc
+openblas
