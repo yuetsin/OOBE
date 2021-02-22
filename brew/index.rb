@@ -9,3 +9,4 @@ ffmpeg
 youtube-dl
 pandoc
 openblas
+mas
