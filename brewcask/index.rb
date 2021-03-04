@@ -17,3 +17,4 @@ mounty
 mactex
 typora
 vienna
+openinterminal
