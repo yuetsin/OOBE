@@ -10,3 +10,4 @@ youtube-dl
 pandoc
 openblas
 mas
+gh
