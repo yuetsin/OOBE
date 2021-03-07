@@ -11,3 +11,4 @@ pandoc
 openblas
 mas
 gh
+uncrustify
