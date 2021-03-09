@@ -12,3 +12,4 @@ openblas
 mas
 gh
 uncrustify
+wget
