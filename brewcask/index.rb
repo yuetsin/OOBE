@@ -18,3 +18,4 @@ mactex
 typora
 vienna
 openinterminal
+hex-fiend
